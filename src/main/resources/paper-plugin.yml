@@ -2,6 +2,6 @@ name: RequiredPlugins
 version: '${project.version}'
 main: dev.chickeneer.requiredplugins.RequiredPlugins
 api-version: '1.20'
-description: This plugin is for ensuring that certain plugins successfully load at server startup.
+description: This plugin ensures that certain plugins successfully load at server startup.
 website: https://github.com/chickeneer/RequiredPlugins
 author: chickeneer
